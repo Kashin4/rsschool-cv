@@ -18,3 +18,9 @@
 6. **Experience**:  
    * refactor and redesign of game page: 2011-2012
    * full administration of the (free) server Lineage2
+   7. **Education**: Online self education: 
+   * htmlacademy - html  and css courses
+   * codeacademy - html  and css courses
+   * Geekbrains - Git
+   * RS School Feb.2019 - till now
+8. **English level**: Basic from school (A1)
